@@ -6,7 +6,6 @@
     Hi! TEA's here!👋
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superteaa&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
