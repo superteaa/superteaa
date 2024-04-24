@@ -16,7 +16,7 @@
 - 🤝 I'm open to collaborating on projects that are related to my fields of interest.
 
 ## Contact Me
-- 📧 Email: twisted6@163.com
+- 📧 Email: Greatea821@outlook.com
 
 
 
